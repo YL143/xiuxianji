@@ -1,0 +1,21 @@
+# 存档
+save/
+*.sav
+
+# 运行日志
+运行日志.log
+*.log
+
+# Windows 编译器中间产物
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.cache
+
+# 临时文件
+*.tmp
+Thumbs.db
+desktop.ini

@@ -1,0 +1,12 @@
+* text=auto
+
+*.cs      text whitespace=cr-at-eol
+*.ps1     text eol=crlf
+*.bat     text eol=crlf
+*.manifest text
+*.md      text
+*.txt     text
+
+*.exe     binary
+*.ico     binary
+*.png     binary
